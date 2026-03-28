@@ -1,2 +1,7 @@
-# c-project-template
-My personal template for C based programming projects
+# Introduction
+
+## Build instructions
+
+## Next Steps
+
+## References
